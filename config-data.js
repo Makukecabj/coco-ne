@@ -1,0 +1,452 @@
+window.__CONFIG = {
+  "business": {
+    "name": "Coco Ne",
+    "short_name": "Coco Ne",
+    "tagline": "Coco Ne · Perú",
+    "description": "Tu base en Coco Ne para explorar Perú.",
+    "category": "Hospedaje",
+    "followers": 0
+  },
+  "hero": {
+    "video": "videos/city-video.mp4",
+    "poster": "fotos/foto-01.webp",
+    "eyebrow": "Perú · Acceso Mancora 161",
+    "title_line1": "Hospedate en",
+    "title_em": "Coco Ne",
+    "title_line2": "",
+    "subtitle": "Cerca de todo, con toda la vibra de Perú."
+  },
+  "location": {
+    "address": "Acceso Mancora 161, 20850, Perú",
+    "district": "Perú",
+    "city": "Perú",
+    "province": "",
+    "country": "Argentina",
+    "destination_type": "city",
+    "map_query": "Acceso Mancora 161, 20850, Perú, Perú",
+    "map_embed": "https://maps.google.com/maps?q=Acceso+Mancora+161%2C+20850%2C+Per%C3%BA%2C+Per%C3%BA&t=&z=15&ie=UTF8&iwloc=&output=embed",
+    "description": "Perú. Cerca de restaurantes, bares y todo lo que necesitás.",
+    "video": "videos/city-video.mp4"
+  },
+  "contact": {
+    "whatsapp": "https://wa.me/54951983430682",
+    "phone": "+54951983430682",
+    "email": ""
+  },
+  "social": {
+    "instagram": "https://www.google.com/maps/place/Coco+Ne/data=!4m10!3m9!1s0x903693e38b4db21d:0xa7e0a1e413a5aa7b!5m2!4m1!1i2!8m2!3d-4.1155171!4d-81.0805053!16s%2Fg%2F11c0vyr769!19sChIJHbJNi-OTNpARe6qlE-Sh4Kc?authuser=0&hl=es&g_ep=EgoyMDI2MTAyNy4wIJJjKgBIAVAD&rclk=1",
+    "place_url": "https://www.google.com/maps/place/Coco+Ne/data=!4m10!3m9!1s0x903693e38b4db21d:0xa7e0a1e413a5aa7b!5m2!4m1!1i2!8m2!3d-4.1155171!4d-81.0805053!16s%2Fg%2F11c0vyr769!19sChIJHbJNi-OTNpARe6qlE-Sh4Kc?authuser=0&hl=es&g_ep=EgoyMDI2MTAyNy4wIJJjKgBIAVAD&rclk=1",
+    "website": "",
+    "facebook": "",
+    "tiktok": ""
+  },
+  "about": {
+    "eyebrow": "Quiénes están al frente",
+    "title": "La historia de Coco Ne.",
+    "paragraphs": [
+      "Coco Ne está ubicado en Perú, en una zona tranquila y céntrica. Contamos con habitaciones limpias y equipadas, espacios comunes amplios, pileta y parrilla. Un lugar ideal para descansar después de recorrer."
+    ],
+    "photos": [
+      {
+        "src": "fotos/foto-02.webp",
+        "alt": "Interior del hostel"
+      },
+      {
+        "src": "fotos/foto-03.webp",
+        "alt": "Espacios comunes"
+      }
+    ]
+  },
+  "trust_bar": [
+    "Disponibilidad actualizada al momento",
+    "Directo al hostel, sin comisiones",
+    "Te ayudamos a organizar tu viaje"
+  ],
+  "amenities": [
+    {
+      "key": "bed",
+      "title": "Habitaciones copadas",
+      "description": "Limpias, frescas, con todo lo básico para estar bien.",
+      "icon": "bed"
+    },
+    {
+      "key": "wifi",
+      "title": "Internet gratis",
+      "description": "Para mandar fotos a la familia y no pierdas contacto.",
+      "icon": "wifi"
+    },
+    {
+      "key": "pin",
+      "title": "Bien situados",
+      "description": "Todo lo turístico queda cerca, a pie.",
+      "icon": "pin"
+    }
+  ],
+  "testimonials": [
+    {
+      "author": "Carolina R.",
+      "rating": 5,
+      "text": "Súper recomendable. Te sentís como en casa desde el primer momento. Volveremos sin dudas."
+    },
+    {
+      "author": "Lucía M.",
+      "rating": 5,
+      "text": "Nos atendieron de diez desde antes de llegar. La ubicación es inmejorable y el ambiente muy copado."
+    },
+    {
+      "author": "Nicolás S.",
+      "rating": 5,
+      "text": "Perfecto para desconectar. Tranquilo, limpio y con espacios para compartir con otros viajeros."
+    },
+    {
+      "author": "Tomás V.",
+      "rating": 5,
+      "text": "Ambiente único, te abren la puerta de casa. De las mejores estadías que tuvimos viajando."
+    }
+  ],
+  "testimonials_meta": {
+    "source": "demo"
+  },
+  "gallery": {
+    "images": [
+      {
+        "src": "fotos/foto-01.webp",
+        "alt": "Vista del alojamiento"
+      },
+      {
+        "src": "fotos/foto-02.webp",
+        "alt": "Interior del hostel"
+      },
+      {
+        "src": "fotos/foto-03.webp",
+        "alt": "Espacios comunes"
+      },
+      {
+        "src": "fotos/foto-04.webp",
+        "alt": "Zona de descanso"
+      },
+      {
+        "src": "fotos/foto-05.webp",
+        "alt": "Pileta y jardín"
+      },
+      {
+        "src": "fotos/foto-06.webp",
+        "alt": "Cocina del hostel"
+      },
+      {
+        "src": "fotos/foto-07.webp",
+        "alt": "Habitaciones"
+      },
+      {
+        "src": "fotos/foto-08.webp",
+        "alt": "Terraza"
+      },
+      {
+        "src": "fotos/foto-09.webp",
+        "alt": "Entrada principal"
+      },
+      {
+        "src": "fotos/foto-10.webp",
+        "alt": "Áreas verdes"
+      },
+      {
+        "src": "fotos/foto-11.webp",
+        "alt": "Comedor"
+      },
+      {
+        "src": "fotos/foto-12.webp",
+        "alt": "Living común"
+      }
+    ],
+    "videos": []
+  },
+  "pricing": {
+    "eyebrow": "Precios",
+    "amount": "Consultar",
+    "period": "SEGÚN TEMPORADA",
+    "title": "Escribinos y te enviamos los precios actualizados según fechas.",
+    "cta_text": "Consultar precios"
+  },
+  "faq": [
+    {
+      "question": "¿Hay calefacción?",
+      "answer": "Sí, en invierno estamos bien abrigaditos. No te preocupes por el frío."
+    },
+    {
+      "question": "¿Tienen estacionamiento?",
+      "answer": "Sí, tenemos lugar para estacionar sin cargo."
+    },
+    {
+      "question": "¿Desayuno incluido?",
+      "answer": "Depende la época, escribinos y te confirmamos."
+    },
+    {
+      "question": "¿Tienen WiFi?",
+      "answer": "Sí, WiFi gratis en todo el lugar. Subí las fotos sin problema."
+    },
+    {
+      "question": "¿Cómo me muevo por la ciudad?",
+      "answer": "Te contamos cómo llegar, qué transporte conviene y qué visitar cuando nos escribas."
+    }
+  ],
+  "footer": {
+    "description": "Coco Ne",
+    "copyright": "© 2026 Coco Ne. Todos los derechos reservados.",
+    "made_by": "Sitio hecho por Aizly"
+  },
+  "i18n": {
+    "en": {
+      "business": {
+        "name": "Coco Ne",
+        "short_name": "Coco Ne",
+        "tagline": "Coco Ne · Accommodation",
+        "description": "Your base at Coco Ne to explore Perú.",
+        "category": "Accommodation"
+      },
+      "hero": {
+        "video": "videos/city-video.mp4",
+        "poster": "fotos/foto-01.webp",
+        "eyebrow": "Perú · Acceso Mancora 161",
+        "title_line1": "Your next stop:",
+        "title_em": "Coco Ne",
+        "title_line2": "",
+        "subtitle": "WiFi, equipped kitchen, terrace and pool. Everything nearby."
+      },
+      "about": {
+        "eyebrow": "What we do",
+        "title": "Coco Ne, everything you need to know.",
+        "paragraphs": [
+          "We're Coco Ne, a hostel with all the good vibes of Perú. Pool, BBQ, kitchen, WiFi and a location that's perfect for exploring everything. Come and visit us!"
+        ],
+        "photos": [
+          {
+            "src": "fotos/foto-02.webp",
+            "alt": "Interior del hostel"
+          },
+          {
+            "src": "fotos/foto-03.webp",
+            "alt": "Espacios comunes"
+          }
+        ]
+      },
+      "location": {
+        "description": "Perú. Close to restaurants, bars, and everything you need."
+      },
+      "gallery": {
+        "images": [
+          {
+            "src": "fotos/foto-01.webp",
+            "alt": "View of the property"
+          },
+          {
+            "src": "fotos/foto-02.webp",
+            "alt": "Inside the hostel"
+          },
+          {
+            "src": "fotos/foto-03.webp",
+            "alt": "Common areas"
+          },
+          {
+            "src": "fotos/foto-04.webp",
+            "alt": "Relaxation area"
+          },
+          {
+            "src": "fotos/foto-05.webp",
+            "alt": "Pool and garden"
+          },
+          {
+            "src": "fotos/foto-06.webp",
+            "alt": "Hostel kitchen"
+          },
+          {
+            "src": "fotos/foto-07.webp",
+            "alt": "Rooms"
+          },
+          {
+            "src": "fotos/foto-08.webp",
+            "alt": "Terrace"
+          },
+          {
+            "src": "fotos/foto-09.webp",
+            "alt": "Main entrance"
+          },
+          {
+            "src": "fotos/foto-10.webp",
+            "alt": "Green areas"
+          },
+          {
+            "src": "fotos/foto-11.webp",
+            "alt": "Dining room"
+          },
+          {
+            "src": "fotos/foto-12.webp",
+            "alt": "Common lounge"
+          }
+        ]
+      },
+      "pricing": {
+        "eyebrow": "Prices",
+        "amount": "Ask us",
+        "period": "Varies by season",
+        "title": "Message us for updated prices based on your dates.",
+        "cta_text": "Check prices"
+      },
+      "faq": [
+        {
+          "question": "Is there heating?",
+          "answer": "Yes, we keep it warm in winter. Don't worry about the cold."
+        },
+        {
+          "question": "Is there parking?",
+          "answer": "Yes, we have free parking on the property."
+        },
+        {
+          "question": "How far is the beach/downtown?",
+          "answer": "Just a few blocks, about a 5-minute walk."
+        },
+        {
+          "question": "What time can I check in and out?",
+          "answer": "We're flexible with times. Drop us a message and we'll work it out."
+        },
+        {
+          "question": "Is it close to downtown?",
+          "answer": "Message us and we'll confirm the exact distance and how to get here from the bus station or airport."
+        }
+      ],
+      "trust_bar": [
+        "Fast messages, clear answers",
+        "Book directly with us",
+        "We know every corner of the area"
+      ],
+      "amenities": [
+        {
+          "title": "Comfortable rooms",
+          "description": "Everything you need to rest after a day of exploring.",
+          "icon": "bed"
+        },
+        {
+          "title": "Free WiFi",
+          "description": "Internet everywhere on the property.",
+          "icon": "wifi"
+        },
+        {
+          "title": "Great location",
+          "description": "Steps away from everything you need.",
+          "icon": "pin"
+        }
+      ],
+      "testimonials": [
+        {
+          "author": "Sarah K.",
+          "rating": 5,
+          "text": "Amazing hospitality from the moment we arrived. Great location and such a warm vibe."
+        },
+        {
+          "author": "Michael B.",
+          "rating": 4,
+          "text": "Wonderful experience. Comfortable, well located, and attention given with real care."
+        },
+        {
+          "author": "James W.",
+          "rating": 5,
+          "text": "Traveling with friends and couldn't have picked a better place. Clean, comfy and welcoming."
+        },
+        {
+          "author": "David O.",
+          "rating": 5,
+          "text": "Excellent place to rest after a day out. Highly recommend, we'll be back for sure."
+        }
+      ],
+      "footer": {
+        "description": "Coco Ne",
+        "copyright": "© 2026 Coco Ne. All rights reserved.",
+        "made_by": "Site by Aizly"
+      }
+    }
+  },
+  "schema_ld": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "LodgingBusiness",
+        "name": "Coco Ne",
+        "description": "Coco Ne ofrece todo lo que necesitás para tu estadía en Perú.",
+        "url": "",
+        "telephone": "+54951983430682",
+        "email": "",
+        "image": "",
+        "sameAs": [
+          "https://www.google.com/maps/place/Coco+Ne/data=!4m10!3m9!1s0x903693e38b4db21d:0xa7e0a1e413a5aa7b!5m2!4m1!1i2!8m2!3d-4.1155171!4d-81.0805053!16s%2Fg%2F11c0vyr769!19sChIJHbJNi-OTNpARe6qlE-Sh4Kc?authuser=0&hl=es&g_ep=EgoyMDI2MTAyNy4wIJJjKgBIAVAD&rclk=1"
+        ],
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Acceso Mancora 161, 20850, Perú",
+          "addressLocality": "Perú",
+          "addressCountry": "AR"
+        },
+        "amenityFeature": [
+          {
+            "@type": "LocationFeatureSpecification",
+            "name": "Habitaciones copadas",
+            "value": true
+          },
+          {
+            "@type": "LocationFeatureSpecification",
+            "name": "Internet gratis",
+            "value": true
+          },
+          {
+            "@type": "LocationFeatureSpecification",
+            "name": "Bien situados",
+            "value": true
+          }
+        ]
+      },
+      {
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "¿Hay calefacción?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Sí, en invierno estamos bien abrigaditos. No te preocupes por el frío."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Tienen estacionamiento?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Sí, tenemos lugar para estacionar sin cargo."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Desayuno incluido?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Depende la época, escribinos y te confirmamos."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Tienen WiFi?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Sí, WiFi gratis en todo el lugar. Subí las fotos sin problema."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Cómo me muevo por la ciudad?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Te contamos cómo llegar, qué transporte conviene y qué visitar cuando nos escribas."
+            }
+          }
+        ]
+      }
+    ]
+  }
+};
